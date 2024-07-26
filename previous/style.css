@@ -1,0 +1,49 @@
+/* @font-face {
+    src: url(./SourceSans3-Black.otf);
+    font-family: Sumit;
+} */
+
+body {
+    font-family: Teachers;
+}
+
+.box{
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+button{
+    padding: 6px 12px;
+    border: 1px solid black;
+    border-bottom: 6px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.red{
+    background-color: rgba(255, 0, 0, 0.342);
+    margin-bottom: 40px;
+    padding-left: 10px;
+}
+
+.red button{
+    background-color: aliceblue;
+    color: black;
+}
+
+.yellow{
+    background-color: rgba(153, 205, 50, 0.418);
+    margin-top: 40px;
+    padding: 10px 0 0 20px;
+}
+
+    .yellow button{
+        background-color: black;
+        color: white
+    }
+
+    
+
+    
